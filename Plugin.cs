@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace PriceSlinger
 {
-    [BepInPlugin("com.kritterbizkit.priceslinger", "PriceSlinger", "1.0.0")]
+    [BepInPlugin("com.kritterbizkit.priceslinger", "PriceSlinger", "1.1.0")]
     public class Plugin : BaseUnityPlugin
     {
         internal static ManualLogSource Log;
